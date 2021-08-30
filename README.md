@@ -1,4 +1,4 @@
-### Olá! Eu sou o Marcello Máchilas
+### Olá! Eu sou o Iuri Barros
 
 - 🔭 Hoje eu trabalho como desenvolvedor fullstack utilizando VueJs e NodeJs
 - 🌱 Estou estudando NodeJS, GoLang ReactJs.
