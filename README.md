@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Iuri Barros
 
-- 🔭 Hoje eu trabalho como desenvolvedor fullstack utilizando VueJs e NodeJs
-- 🌱 Estou estudando NodeJS, GoLang ReactJs.
-- 📫 Contate-me no email: iuri.t.barros@gmail.com
+- 🔭 Hoje eu trabalho como desenvolvedor Frontend utilizando as tecnologias VueJs e ReactJS
+- 🌱 Estou estudando NodeJS, SASS (CSS) e docker.
+- 📫 Contate-me no email: iuri.t.barros@gmail.com. 
 
 
  <div>
