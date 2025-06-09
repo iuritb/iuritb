@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Iuri Barros
 
-- 🔭 Hoje eu trabalho como desenvolvedor Frontend utilizando as tecnologias VueJs e ReactJS
-- 🌱 Estou estudando NodeJS, SASS (CSS) e docker.
+- 🔭 Hoje eu trabalho como desenvolvedor Frontend utilizando as tecnologias AngularJs e VueJs
 - 📫 Contate-me no email: iuri.t.barros@gmail.com. 
 
 
